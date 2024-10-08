@@ -1,5 +1,5 @@
 # Kaggle-Handwritten-digit-recognizer
-This model is to recognize handwritten number.This is a kaggle competition.
+This model is to recognize handwritten number.This is a kaggle competition.                                                                                                                                                 
 ![Competition Link](https://www.kaggle.com/competitions/digit-recognizer)
 ### Features
 Import  libraries                                                                                                                                                                                                           
